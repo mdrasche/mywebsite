@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1677438907475.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1738841591",
+    "id" : "B2FB17AC",
+    "lastKnownWriteTime" : 1677439125,
+    "last_content_update" : 1677439125200,
+    "path" : "~/Desktop/mywebsite/theme.css",
+    "project_path" : "theme.css",
+    "properties" : {
+        "cursorPosition" : "17,22",
+        "scrollLine" : "15"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\nI received my Cognitive Neuroscience PhD from the University of Oregon in March 2023. My research focused on using machine learning, statistics, and computer vision methods to understand learning.\n\n\n\n\n\n\n",
+      "last_modified": "2023-02-26T10:51:40-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Maxwell Drascher, PhD",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\nWebsite for recent Cogntive Neuroscience PhD graduate, Maxwell Drascher.\n\n\n\n",
+      "last_modified": "2023-02-26T11:18:50-08:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Projects",
+      "author": [],
+      "contents": "\nComing Soon!\n\n\n\n",
+      "last_modified": "2023-02-26T10:55:14-08:00"
+    }
+  ],
+  "collections": []
+}
